@@ -33,10 +33,6 @@ Users should be able to:
 
 ![Design](./public/design/desktop-design.jpg)
 
-### Links
-
-- [Solution Url](https://github.com/ikennarichard/Interactive-comments-section)
-- [Live site](https://rich-interactive-comments.netlify.app)
 
 ## My process
 
