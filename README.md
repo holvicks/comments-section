@@ -65,9 +65,6 @@ Explore redux middleware for asynchronous actions, mastering selectors and under
 
 ## Author
 
-- [Ikenna Richard](https://ikennarichard.netlify.app)
-- [@ikennarichard](https://www.frontendmentor.io/profile/ikennarichard)
-
 ## Acknowledgments
 
 - Frontend Mentor
